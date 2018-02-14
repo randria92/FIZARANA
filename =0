@@ -1,0 +1,303 @@
+warning: LF will be replaced by CRLF in build/classes/librairie2/FrameClient.form.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/librairie2/FrameClient.form.
+The file will have its original line endings in your working directory.
+[1mdiff --git a/build/classes/librairie2/FrameClient$1.class b/build/classes/librairie2/FrameClient$1.class[m
+[1mindex e3b4550..1734047 100644[m
+Binary files a/build/classes/librairie2/FrameClient$1.class and b/build/classes/librairie2/FrameClient$1.class differ
+[1mdiff --git a/build/classes/librairie2/FrameClient$2.class b/build/classes/librairie2/FrameClient$2.class[m
+[1mindex 09622c8..ce7487a 100644[m
+Binary files a/build/classes/librairie2/FrameClient$2.class and b/build/classes/librairie2/FrameClient$2.class differ
+[1mdiff --git a/build/classes/librairie2/FrameClient$3.class b/build/classes/librairie2/FrameClient$3.class[m
+[1mindex f113c8f..af56a77 100644[m
+Binary files a/build/classes/librairie2/FrameClient$3.class and b/build/classes/librairie2/FrameClient$3.class differ
+[1mdiff --git a/build/classes/librairie2/FrameClient$4.class b/build/classes/librairie2/FrameClient$4.class[m
+[1mindex 55990b6..df2153c 100644[m
+Binary files a/build/classes/librairie2/FrameClient$4.class and b/build/classes/librairie2/FrameClient$4.class differ
+[1mdiff --git a/build/classes/librairie2/FrameClient$5.class b/build/classes/librairie2/FrameClient$5.class[m
+[1mindex 568302a..3c555fa 100644[m
+Binary files a/build/classes/librairie2/FrameClient$5.class and b/build/classes/librairie2/FrameClient$5.class differ
+[1mdiff --git a/build/classes/librairie2/FrameClient$6.class b/build/classes/librairie2/FrameClient$6.class[m
+[1mindex 547d358..f864c67 100644[m
+Binary files a/build/classes/librairie2/FrameClient$6.class and b/build/classes/librairie2/FrameClient$6.class differ
+[1mdiff --git a/build/classes/librairie2/FrameClient.class b/build/classes/librairie2/FrameClient.class[m
+[1mindex b95a47a..4a6aabd 100644[m
+Binary files a/build/classes/librairie2/FrameClient.class and b/build/classes/librairie2/FrameClient.class differ
+[1mdiff --git a/build/classes/librairie2/FrameClient.form b/build/classes/librairie2/FrameClient.form[m
+[1mindex c3272e4..44d1147 100644[m
+[1m--- a/build/classes/librairie2/FrameClient.form[m
+[1m+++ b/build/classes/librairie2/FrameClient.form[m
+[36m@@ -23,18 +23,29 @@[m
+   <Layout>[m
+     <DimensionLayout dim="0">[m
+       <Group type="103" groupAlignment="0" attributes="0">[m
+[31m-          <Group type="102" alignment="0" attributes="0">[m
+[32m+[m[32m          <Group type="102" attributes="0">[m
+               <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>[m
+[31m-              <Group type="103" groupAlignment="0" attributes="0">[m
+[31m-                  <Component id="jLabel1" min="-2" pref="387" max="-2" attributes="0"/>[m
+[31m-                  <Group type="102" attributes="0">[m
+[31m-                      <Group type="103" groupAlignment="0" max="-2" attributes="0">[m
+[31m-                          <Component id="mamono" alignment="0" max="32767" attributes="0"/>[m
+[31m-                          <Component id="MODIFIER" alignment="0" pref="97" max="32767" attributes="0"/>[m
+[31m-                          <Component id="jButton4" alignment="0" max="32767" attributes="0"/>[m
+[32m+[m[32m              <Group type="103" groupAlignment="1" attributes="0">[m
+[32m+[m[32m                  <Group type="103" groupAlignment="0" attributes="0">[m
+[32m+[m[32m                      <Component id="jLabel1" min="-2" pref="387" max="-2" attributes="0"/>[m
+[32m+[m[32m                      <Group type="102" attributes="0">[m
+[32m+[m[32m                          <Group type="103" groupAlignment="0" max="-2" attributes="0">[m
+[32m+[m[32m                              <Component id="mamono" alignment="0" max="32767" attributes="0"/>[m
+[32m+[m[32m                              <Component id="MODIFIER" alignment="0" pref="97" max="32767" attributes="0"/>[m
+[32m+[m[32m                              <Component id="jButton4" alignment="0" max="32767" attributes="0"/>[m
+[32m+[m[32m                          </Group>[m
+[32m+[m[32m                          <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>[m
+[32m+[m[32m                          <Component id="jPanel1" min="-2" max="-2" attributes="0"/>[m
+                       </Group>[m
+[31m-                      <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>[m
+[31m-                      <Component id="jPanel1" min="-2" max="-2" attributes="0"/>[m
+[32m+[m[32m                  </Group>[m
+[32m+[m[32m                  <Group type="102" attributes="0">[m
+[32m+[m[32m                      <Component id="jT_idclient" min="-2" pref="142" max="-2" attributes="0"/>[m
+[32m+[m[32m                      <EmptySpace max="-2" attributes="0"/>[m
+[32m+[m[32m                      <Component id="jT_civilite" min="-2" pref="117" max="-2" attributes="0"/>[m
+[32m+[m[32m                      <EmptySpace type="unrelated" max="-2" attributes="0"/>[m
+[32m+[m[32m                      <Component id="jTextField3" min="-2" pref="153" max="-2" attributes="0"/>[m
+[32m+[m[32m                      <EmptySpace type="unrelated" max="-2" attributes="0"/>[m
+[32m+[m[32m                      <Component id="jTextField4" min="-2" pref="161" max="-2" attributes="0"/>[m
+                   </Group>[m
+               </Group>[m
+               <EmptySpace pref="42" max="32767" attributes="0"/>[m
+[36m@@ -60,7 +71,14 @@[m
+                       <Component id="jPanel1" min="-2" max="-2" attributes="0"/>[m
+                   </Group>[m
+               </Group>[m
+[31m-              <EmptySpace pref="393" max="32767" attributes="0"/>[m
+[32m+[m[32m              <EmptySpace type="unrelated" max="-2" attributes="0"/>[m
+[32m+[m[32m              <Group type="103" groupAlignment="3" attributes="0">[m
+[32m+[m[32m                  <Component id="jT_idclient" alignment="3" min="-2" max="-2" attributes="0"/>[m
+[32m+[m[32m                  <Component id="jT_civilite" alignment="3" min="-2" max="-2" attributes="0"/>[m
+[32m+[m[32m                  <Component id="jTextField3" alignment="3" min="-2" max="-2" attributes="0"/>[m
+[32m+[m[32m                  <Component id="jTextField4" alignment="3" min="-2" max="-2" attributes="0"/>[m
+[32m+[m[32m              </Group>[m
+[32m+[m[32m              <EmptySpace pref="357" max="32767" attributes="0"/>[m
+           </Group>[m
+       </Group>[m
+     </DimensionLayout>[m
+[36m@@ -381,5 +399,19 @@[m
+         </Container>[m
+       </SubComponents>[m
+     </Container>[m
+[32m+[m[32m    <Component class="javax.swing.JTextField" name="jT_idclient">[m
+[32m+[m[32m    </Component>[m
+[32m+[m[32m    <Component class="javax.swing.JTextField" name="jT_civilite">[m
+[32m+[m[32m    </Component>[m
+[32m+[m[32m    <Component class="javax.swing.JTextField" name="jTextField3">[m
+[32m+[m[32m      <Properties>[m
+[32m+[m[32m        <Property name="text" type="java.lang.String" value="jTextField3"/>[m
+[32m+[m[32m      </Properties>[m
+[32m+[m[32m    </Component>[m
+[32m+[m[32m    <Component class="javax.swing.JTextField" name="jTextField4">[m
+[32m+[m[32m      <Properties>[m
+[32m+[m[32m        <Property name="text" type="java.lang.String" value="jTextField4"/>[m
+[32m+[m[32m      </Properties>[m
+[32m+[m[32m    </Component>[m
+   </SubComponents>[m
+ </Form>[m
+[1mdiff --git a/src/librairie2/FrameClient.form b/src/librairie2/FrameClient.form[m
+[1mindex c3272e4..44d1147 100644[m
+[1m--- a/src/librairie2/FrameClient.form[m
+[1m+++ b/src/librairie2/FrameClient.form[m
+[36m@@ -23,18 +23,29 @@[m
+   <Layout>[m
+     <DimensionLayout dim="0">[m
+       <Group type="103" groupAlignment="0" attributes="0">[m
+[31m-          <Group type="102" alignment="0" attributes="0">[m
+[32m+[m[32m          <Group type="102" attributes="0">[m
+               <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>[m
+[31m-              <Group type="103" groupAlignment="0" attributes="0">[m
+[31m-                  <Component id="jLabel1" min="-2" pref="387" max="-2" attributes="0"/>[m
+[31m-                  <Group type="102" attributes="0">[m
+[31m-                      <Group type="103" groupAlignment="0" max="-2" attributes="0">[m
+[31m-                          <Component id="mamono" alignment="0" max="32767" attributes="0"/>[m
+[31m-                          <Component id="MODIFIER" alignment="0" pref="97" max="32767" attributes="0"/>[m
+[31m-                          <Component id="jButton4" alignment="0" max="32767" attributes="0"/>[m
+[32m+[m[32m              <Group type="103" groupAlignment="1" attributes="0">[m
+[32m+[m[32m                  <Group type="103" groupAlignment="0" attributes="0">[m
+[32m+[m[32m                      <Component id="jLabel1" min="-2" pref="387" max="-2" attributes="0"/>[m
+[32m+[m[32m                      <Group type="102" attributes="0">[m
+[32m+[m[32m                          <Group type="103" groupAlignment="0" max="-2" attributes="0">[m
+[32m+[m[32m                              <Component id="mamono" alignment="0" max="32767" attributes="0"/>[m
+[32m+[m[32m                              <Component id="MODIFIER" alignment="0" pref="97" max="32767" attributes="0"/>[m
+[32m+[m[32m                              <Component id="jButton4" alignment="0" max="32767" attributes="0"/>[m
+[32m+[m[32m                          </Group>[m
+[32m+[m[32m                          <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>[m
+[32m+[m[32m                          <Component id="jPanel1" min="-2" max="-2" attributes="0"/>[m
+                       </Group>[m
+[31m-                      <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>[m
+[31m-                      <Component id="jPanel1" min="-2" max="-2" attributes="0"/>[m
+[32m+[m[32m                  </Group>[m
+[32m+[m[32m                  <Group type="102" attributes="0">[m
+[32m+[m[32m                      <Component id="jT_idclient" min="-2" pref="142" max="-2" attributes="0"/>[m
+[32m+[m[32m                      <EmptySpace max="-2" attributes="0"/>[m
+[32m+[m[32m                      <Component id="jT_civilite" min="-2" pref="117" max="-2" attributes="0"/>[m
+[32m+[m[32m                      <EmptySpace type="unrelated" max="-2" attributes="0"/>[m
+[32m+[m[32m                      <Component id="jTextField3" min="-2" pref="153" max="-2" attributes="0"/>[m
+[32m+[m[32m                      <EmptySpace type="unrelated" max="-2" attributes="0"/>[m
+[32m+[m[32m                      <Component id="jTextField4" min="-2" pref="161" max="-2" attributes="0"/>[m
+                   </Group>[m
+               </Group>[m
+               <EmptySpace pref="42" max="32767" attributes="0"/>[m
+[36m@@ -60,7 +71,14 @@[m
+                       <Component id="jPanel1" min="-2" max="-2" attributes="0"/>[m
+                   </Group>[m
+               </Group>[m
+[31m-              <EmptySpace pref="393" max="32767" attributes="0"/>[m
+[32m+[m[32m              <EmptySpace type="unrelated" max="-2" attributes="0"/>[m
+[32m+[m[32m              <Group type="103" groupAlignment="3" attributes="0">[m
+[32m+[m[32m                  <Component id="jT_idclient" alignment="3" min="-2" max="-2" attributes="0"/>[m
+[32m+[m[32m                  <Component id="jT_civilite" alignment="3" min="-2" max="-2" attributes="0"/>[m
+[32m+[m[32m                  <Component id="jTextField3" alignment="3" min="-2" max="-2" attributes="0"/>[m
+[32m+[m[32m                  <Component id="jTextField4" alignment="3" min="-2" max="-2" attributes="0"/>[m
+[32m+[m[32m              </Group>[m
+[32m+[m[32m              <EmptySpace pref="357" max="32767" attributes="0"/>[m
+           </Group>[m
+       </Group>[m
+     </DimensionLayout>[m
+[36m@@ -381,5 +399,19 @@[m
+         </Container>[m
+       </SubComponents>[m
+     </Container>[m
+[32m+[m[32m    <Component class="javax.swing.JTextField" name="jT_idclient">[m
+[32m+[m[32m    </Component>[m
+[32m+[m[32m    <Component class="javax.swing.JTextField" name="jT_civilite">[m
+[32m+[m[32m    </Component>[m
+[32m+[m[32m    <Component class="javax.swing.JTextField" name="jTextField3">[m
+[32m+[m[32m      <Properties>[m
+[32m+[m[32m        <Property name="text" type="java.lang.String" value="jTextField3"/>[m
+[32m+[m[32m      </Properties>[m
+[32m+[m[32m    </Component>[m
+[32m+[m[32m    <Component class="javax.swing.JTextField" name="jTextField4">[m
+[32m+[m[32m      <Properties>[m
+[32m+[m[32m        <Property name="text" type="java.lang.String" value="jTextField4"/>[m
+[32m+[m[32m      </Properties>[m
+[32m+[m[32m    </Component>[m
+   </SubComponents>[m
+ </Form>[m
+[1mdiff --git a/src/librairie2/FrameClient.java b/src/librairie2/FrameClient.java[m
+[1mindex 1266b1a..811bfc7 100644[m
+[1m--- a/src/librairie2/FrameClient.java[m
+[1m+++ b/src/librairie2/FrameClient.java[m
+[36m@@ -94,6 +94,10 @@[m [mpublic final class FrameClient extends javax.swing.JFrame {[m
+         jTabbedPane4 = new javax.swing.JTabbedPane();[m
+         jTabbedPane5 = new javax.swing.JTabbedPane();[m
+         jTabbedPane6 = new javax.swing.JTabbedPane();[m
+[32m+[m[32m        jT_idclient = new javax.swing.JTextField();[m
+[32m+[m[32m        jT_civilite = new javax.swing.JTextField();[m
+[32m+[m[32m        jTextField3 = new javax.swing.JTextField();[m
+[32m+[m[32m        jTextField4 = new javax.swing.JTextField();[m
+ [m
+         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);[m
+ [m
+[36m@@ -238,21 +242,34 @@[m [mpublic final class FrameClient extends javax.swing.JFrame {[m
+                 .addContainerGap())[m
+         );[m
+ [m
+[32m+[m[32m        jTextField3.setText("jTextField3");[m
+[32m+[m
+[32m+[m[32m        jTextField4.setText("jTextField4");[m
+[32m+[m
+         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());[m
+         getContentPane().setLayout(layout);[m
+         layout.setHorizontalGroup([m
+             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)[m
+             .addGroup(layout.createSequentialGroup()[m
+                 .addGap(39, 39, 39)[m
+[31m-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)[m
+[31m-                    .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 387, javax.swing.GroupLayout.PREFERRED_SIZE)[m
+[32m+[m[32m                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)[m
+[32m+[m[32m                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)[m
+[32m+[m[32m                        .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 387, javax.swing.GroupLayout.PREFERRED_SIZE)[m
+[32m+[m[32m                        .addGroup(layout.createSequentialGroup()[m
+[32m+[m[32m                            .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)[m
+[32m+[m[32m                                .addComponent(mamono, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)[m
+[32m+[m[32m                                .addComponent(MODIFIER, javax.swing.GroupLayout.DEFAULT_SIZE, 97, Short.MAX_VALUE)[m
+[32m+[m[32m                                .addComponent(jButton4, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))[m
+[32m+[m[32m                            .addGap(44, 44, 44)[m
+[32m+[m[32m                            .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))[m
+                     .addGroup(layout.createSequentialGroup()[m
+[31m-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)[m
+[31m-                            .addComponent(mamono, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)[m
+[31m-                            .addComponent(MODIFIER, javax.swing.GroupLayout.DEFAULT_SIZE, 97, Short.MAX_VALUE)[m
+[31m-                            .addComponent(jButton4, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))[m
+[31m-                        .addGap(44, 44, 44)[m
+[31m-                        .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))[m
+[32m+[m[32m                        .addComponent(jT_idclient, javax.swing.GroupLayout.PREFERRED_SIZE, 142, javax.swing.GroupLayout.PREFERRED_SIZE)[m
+[32m+[m[32m                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)[m
+[32m+[m[32m                        .addComponent(jT_civilite, javax.swing.GroupLayout.PREFERRED_SIZE, 117, javax.swing.GroupLayout.PREFERRED_SIZE)[m
+[32m+[m[32m                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)[m
+[32m+[m[32m                        .addComponent(jTextField3, javax.swing.GroupLayout.PREFERRED_SIZE, 153, javax.swing.GroupLayout.PREFERRED_SIZE)[m
+[32m+[m[32m                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)[m
+[32m+[m[32m                        .addComponent(jTextField4, javax.swing.GroupLayout.PREFERRED_SIZE, 161, javax.swing.GroupLayout.PREFERRED_SIZE)))[m
+                 .addContainerGap(42, Short.MAX_VALUE))[m
+         );[m
+         layout.setVerticalGroup([m
+[36m@@ -271,7 +288,13 @@[m [mpublic final class FrameClient extends javax.swing.JFrame {[m
+                     .addGroup(layout.createSequentialGroup()[m
+                         .addGap(51, 51, 51)[m
+                         .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))[m
+[31m-                .addContainerGap(393, Short.MAX_VALUE))[m
+[32m+[m[32m                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)[m
+[32m+[m[32m                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)[m
+[32m+[m[32m                    .addComponent(jT_idclient, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)[m
+[32m+[m[32m                    .addComponent(jT_civilite, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)[m
+[32m+[m[32m                    .addComponent(jTextField3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)[m
+[32m+[m[32m                    .addComponent(jTextField4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))[m
+[32m+[m[32m                .addContainerGap(357, Short.MAX_VALUE))[m
+         );[m
+ [m
+         pack();[m
+[36m@@ -280,6 +303,7 @@[m [mpublic final class FrameClient extends javax.swing.JFrame {[m
+     private void mamonoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mamonoActionPerformed[m
+         //------------------------:[m
+         try {[m
+[32m+[m[32m            montrer_client();[m
+             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");[m
+             String url = "jdbc:sqlserver://localhost:1433;databaseName=Librairie;"[m
+                     + "user=sa;password=sa";[m
+[36m@@ -317,14 +341,15 @@[m [mpublic final class FrameClient extends javax.swing.JFrame {[m
+                     + "(' "+civilite+"',' "+Fname+"',' "+Fprenom+"','0101010101',\n"[m
+                     + "'Dupon@onconnaipas','duponmdp','2018-01-01')";[m
+             PreparedStatement pst = con.prepareStatement(req);[m
+[31m-            [m
+[31m-            [m
+[31m-           [m
+[32m+[m[32m            //pst.executeUpdate();[m
+             //pst.executeQuery(req);[m
+             pst.execute();[m
+             //montrer_client();[m
+             JOptionPane.showMessageDialog(null, "Ajout reussi!!!");[m
+              montrer_client();[m
+[32m+[m[41m              [m
+[32m+[m[32m            pst.close();[m
+[32m+[m[32m            con.close();[m
+         } catch (Exception e) {[m
+              JOptionPane.showMessageDialog(null, "Ajout NON reussi!!!");[m
+                JOptionPane.showMessageDialog(null, e);[m
+[36m@@ -410,6 +435,8 @@[m [mpublic final class FrameClient extends javax.swing.JFrame {[m
+     private javax.swing.JLabel jLabel5;[m
+     private javax.swing.JPanel jPanel1;[m
+     private javax.swing.JScrollPane jScrollPane1;[m
+[32m+[m[32m    private javax.swing.JTextField jT_civilite;[m
+[32m+[m[32m    private javax.swing.JTextField jT_idclient;[m
+     private javax.swing.JTabbedPane jTabbedPane1;[m
+     private javax.swing.JTabbedPane jTabbedPane2;[m
+     private javax.swing.JTabbedPane jTabbedPane3;[m
+[36m@@ -417,6 +444,8 @@[m [mpublic final class FrameClient extends javax.swing.JFrame {[m
+     private javax.swing.JTabbedPane jTabbedPane5;[m
+     private javax.swing.JTabbedPane jTabbedPane6;[m
+     private javax.swing.JTabbedPane jTabbedPane7;[m
+[32m+[m[32m    private javax.swing.JTextField jTextField3;[m
+[32m+[m[32m    private javax.swing.JTextField jTextField4;[m
+     private java.awt.List list1;[m
+     private java.awt.List list3;[m
+     private javax.swing.JTable maTable;[m

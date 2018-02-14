@@ -17,7 +17,7 @@ public class Client  {
     private int statusClient;
     private int statusconnexionClient;
     private int idClient;
-
+    
     public String getCivilite() {
         return civilite;
     }
